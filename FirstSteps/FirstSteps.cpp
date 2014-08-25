@@ -6,6 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	//hallo das ist aber toll 
 	return 0;
 }
 
