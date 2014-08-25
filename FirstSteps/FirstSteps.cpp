@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	//hallo das ist aber toll 
+	//hallo das ist aber tolldfsdfsdf
 	return 0;
 }
 
